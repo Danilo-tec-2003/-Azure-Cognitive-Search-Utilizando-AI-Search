@@ -17,6 +17,7 @@ O Azure Cognitive Search é uma solução de busca em nuvem totalmente gerenciad
 Indexação de Dados: Permite indexar documentos em diferentes formatos (JSON, PDF, etc.) e disponibilizar esses dados para pesquisa eficiente.
 Pesquisa de Texto Completo: Suporta consultas baseadas em texto para encontrar documentos relevantes de acordo com a pesquisa do usuário.
 Facetas e Filtros: Permite adicionar facetas e filtros para refinar a pesquisa e proporcionar uma melhor experiência de busca.
+
 2. Aplicando AI Search para Aprimorar a Busca
 A AI Search no Azure Cognitive Search utiliza inteligência artificial para aprimorar os resultados da pesquisa. Essa tecnologia pode ser aplicada para:
 
@@ -32,12 +33,14 @@ Com o uso do AI Search, a qualidade das buscas realizadas aumenta significativam
 Relevância melhorada: AI Search entende o contexto por trás das consultas, oferecendo resultados mais precisos.
 Personalização: Permite adaptar a pesquisa aos interesses do usuário, trazendo resultados personalizados.
 Eficiência: Automatiza o processo de classificação, categorização e extração de dados, tornando as pesquisas mais rápidas e eficazes.
+
 4. Criando e Configurando um Índice com AI Search
 No Azure Cognitive Search, você pode criar um índice de busca que aproveita os recursos de AI. Os passos básicos incluem:
 
 Criar um Serviço de Pesquisa: No portal do Azure, crie um novo serviço de Azure Cognitive Search.
 Criar um Índice: Defina a estrutura do índice, determinando os campos a serem indexados.
 Aplicar AI para Enriquecer o Índice: Use a funcionalidade de AI Search para adicionar habilidades de IA, como extração de texto e reconhecimento de entidades.
+
 5. Integração de AI Search com o Azure Cognitive Search
 Após configurar o seu índice, você pode integrar o AI Search da seguinte maneira:
 
